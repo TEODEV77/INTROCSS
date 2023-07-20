@@ -73,7 +73,7 @@ Permite definir cómo se verán los elementos en una página web.
 
 ### Permite seleccionar varios elementos a los que se aplicarán las mismas reglas.
 
-## Selector descendente
+## Combinador descendente
 
 ```
  ul li {
@@ -87,7 +87,7 @@ Permite definir cómo se verán los elementos en una página web.
 
 ### Los selectores descendentes se utilizan para seleccionar elementos secundarios dentro de un elemento principal.
 
-## Selector descendente directo
+## Combinador descendente hijo directo
 
 ```
  div > p {
@@ -96,3 +96,5 @@ Permite definir cómo se verán los elementos en una página web.
 ```
 
 ### Seleccionan elementos secundarios que son directamente descendientes de un elemento principal
+
+
